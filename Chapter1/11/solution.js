@@ -2,7 +2,8 @@
 function solution(input) {
   let answer = 0;
   for (let x of input) {
-    x === x.toUpperCase() && answer++;
+    //x === x.toUpperCase() && answer++;
+    x >= "A" && x <= "Z" && answer++;
   }
   return answer;
 }

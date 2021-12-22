@@ -17,3 +17,4 @@
 |  09  |        [A를 #으로](./Chapter1/09/README.md)        | [JavaScript](./Chapter1/09/solution.js) |
 |  10  |        [문자 찾기](./Chapter1/10/README.md)        | [JavaScript](./Chapter1/10/solution.js) |
 |  11  |       [대문자 찾기](./Chapter1/11/README.md)       | [JavaScript](./Chapter1/11/solution.js) |
+|  12  |      [대문자로 통일](./Chapter1/12/README.md)      | [JavaScript](./Chapter1/12/solution.js) |
