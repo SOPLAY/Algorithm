@@ -5,7 +5,7 @@ function solution(input) {
   for (let x of input) {
     let charCode = x.charCodeAt();
     answer +=
-      charCode >= "97" && charCode <= 122
+      charCode >= 97 && charCode <= 122
         ? String.fromCharCode(charCode - 32)
         : x;
   }

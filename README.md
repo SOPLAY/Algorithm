@@ -18,3 +18,7 @@
 |  10  |        [문자 찾기](./Chapter1/10/README.md)        | [JavaScript](./Chapter1/10/solution.js) |
 |  11  |       [대문자 찾기](./Chapter1/11/README.md)       | [JavaScript](./Chapter1/11/solution.js) |
 |  12  |      [대문자로 통일](./Chapter1/12/README.md)      | [JavaScript](./Chapter1/12/solution.js) |
+|  13  |      [대소문자 변환](./Chapter1/13/README.md)      | [JavaScript](./Chapter1/13/solution.js) |
+|  14  |     [가장 긴 문자열](./Chapter1/14/README.md)      | [JavaScript](./Chapter1/14/solution.js) |
+|  15  |    [가운데 문자 출력](./Chapter1/15/README.md)     | [JavaScript](./Chapter1/15/solution.js) |
+|  16  |      [중복문자제거](./Chapter1/16/README.md)       | [JavaScript](./Chapter1/16/solution.js) |
