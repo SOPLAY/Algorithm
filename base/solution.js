@@ -1,9 +1,9 @@
 // 문제 풀이
-function solution() {
+function solution(inputValue) {
   let answer;
 
   return answer;
 }
 
 //출력
-console.log(solution);
+console.log(solution());

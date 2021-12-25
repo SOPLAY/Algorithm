@@ -2,7 +2,10 @@
 
 ## 처음부터 다시시작하는 알고리즘
 
-### Chapter 1. 기본문제
+### Chapter 1. `기본문제 풀이`
+
+<details>
+</br>
 
 | 번호 |                        문제                        |                  Code                   |
 | :--: | :------------------------------------------------: | :-------------------------------------: |
@@ -22,3 +25,21 @@
 |  14  |     [가장 긴 문자열](./Chapter1/14/README.md)      | [JavaScript](./Chapter1/14/solution.js) |
 |  15  |    [가운데 문자 출력](./Chapter1/15/README.md)     | [JavaScript](./Chapter1/15/solution.js) |
 |  16  |      [중복문자제거](./Chapter1/16/README.md)       | [JavaScript](./Chapter1/16/solution.js) |
+|  17  |      [중복단어제거](./Chapter1/17/README.md)       | [JavaScript](./Chapter1/17/solution.js) |
+
+</details>
+
+---
+
+### Chapter 2. `1,2차원 배열 탐색`
+
+<details>
+</br>
+
+| 번호 |                   문제                    |                  Code                   |
+| :--: | :---------------------------------------: | :-------------------------------------: |
+|  01  | [큰 수 출력하기](./Chapter2/01/README.md) | [JavaScript](./Chapter2/01/solution.js) |
+
+</details>
+
+---
