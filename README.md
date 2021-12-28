@@ -39,6 +39,10 @@
 | 번호 |                   문제                    |                  Code                   |
 | :--: | :---------------------------------------: | :-------------------------------------: |
 |  01  | [큰 수 출력하기](./Chapter2/01/README.md) | [JavaScript](./Chapter2/01/solution.js) |
+|  02  |  [보이는 학생](./Chapter2/02/README.md)   | [JavaScript](./Chapter2/02/solution.js) |
+|  03  |  [가위 바위 보](./Chapter2/03/README.md)  | [JavaScript](./Chapter2/03/solution.js) |
+|  04  |    [점수계산](./Chapter2/04/README.md)    | [JavaScript](./Chapter2/04/solution.js) |
+|  05  |   [등수구하기](./Chapter2/05/README.md)   | [JavaScript](./Chapter2/05/solution.js) |
 
 </details>
 
