@@ -29,7 +29,7 @@ function solution(inputValue) {
           temp.push(input[indexX][indexY]);
         }
       }
-      //구한 값의 최댓갑 기준 비교 및 추가
+      //구한 값의 최댓값 기준 비교 및 추가
       Math.max(...temp) < input[i][j] && answer++;
     }
   }
