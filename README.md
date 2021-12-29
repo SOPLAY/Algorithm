@@ -44,6 +44,7 @@
 |  04  |    [점수계산](./Chapter2/04/README.md)    | [JavaScript](./Chapter2/04/solution.js) |
 |  05  |   [등수구하기](./Chapter2/05/README.md)   | [JavaScript](./Chapter2/05/solution.js) |
 |  06  | [격자판 최대합](./Chapter2/06/README.md)  | [JavaScript](./Chapter2/06/solution.js) |
+|  07  |     [봉우리](./Chapter2/07/README.md)     | [JavaScript](./Chapter2/07/solution.js) |
 
 </details>
 
