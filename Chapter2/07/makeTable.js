@@ -7,7 +7,13 @@ let arr = [
   [0, 8, 7, 3, 5, 2, 0],
   [0, 0, 0, 0, 0, 0, 0],
 ];
-let answer = `<table border="1" align="center">
+let res = `<table border="1" align="center">
     ${arr.map((v) => `<tr>${v.map((v2) => `<td>${v2}</td>`)}</tr>`)}
 </table>`;
-console.log(answer.replace(/,/g, ""));
+//console.log(res.replace(/,/g, ""));
+
+let res2 = `|${arr.map((v) => v.map((v2) => `${v2}|`) + "\n|")}`.replace(
+  /,/g,
+  ""
+);
+console.log(res2);
