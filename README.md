@@ -66,3 +66,20 @@
 </details>
 
 ---
+
+### Chapter 4. `완전탐색(블루투포스)`
+
+<details>
+</br>
+
+| 번호 |                  문제                  |                  Code                   |
+| :--: | :------------------------------------: | :-------------------------------------: |
+|  01  | [자릿수의 합](./Chapter4/01/README.md) | [JavaScript](./Chapter4/01/solution.js) |
+|  02  | [뒤집은 소수](./Chapter4/02/README.md) | [JavaScript](./Chapter4/02/solution.js) |
+|  03  |   [멘토링](./Chapter4/03/README.md)    | [JavaScript](./Chapter4/03/solution.js) |
+|  04  |  [졸업선물](./Chapter4/04/README.md)   | [JavaScript](./Chapter4/04/solution.js) |
+|  05  | [K번째 큰 수](./Chapter4/05/README.md) | [JavaScript](./Chapter4/05/solution.js) |
+
+</details>
+
+---
