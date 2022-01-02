@@ -27,3 +27,5 @@ g0en2T0s8eSoft
 ```
 208
 ```
+
+#### [코드보기](./solution.js)

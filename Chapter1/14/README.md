@@ -30,3 +30,5 @@ good
 ```
 beautiful
 ```
+
+#### [코드보기](./solution.js)

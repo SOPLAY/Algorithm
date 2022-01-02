@@ -29,3 +29,5 @@ found7, time: study; Yduts; emit, 7Dnuof
 ```
 YES
 ```
+
+#### [코드보기](./solution.js)
