@@ -55,11 +55,12 @@
 <details>
 </br>
 
-| 번호 |                    문제                    |                  Code                   |
-| :--: | :----------------------------------------: | :-------------------------------------: |
-|  01  |   [회문 문자열](./Chapter3/01/README.md)   | [JavaScript](./Chapter3/01/solution.js) |
-|  02  | [유효한 팰린드롬](./Chapter3/02/README.md) | [JavaScript](./Chapter3/02/solution.js) |
-|  03  |   [숫자만 추출](./Chapter3/03/README.md)   | [JavaScript](./Chapter3/03/solution.js) |
+| 번호 |                     문제                      |                  Code                   |
+| :--: | :-------------------------------------------: | :-------------------------------------: |
+|  01  |    [회문 문자열](./Chapter3/01/README.md)     | [JavaScript](./Chapter3/01/solution.js) |
+|  02  |  [유효한 팰린드롬](./Chapter3/02/README.md)   | [JavaScript](./Chapter3/02/solution.js) |
+|  03  |    [숫자만 추출](./Chapter3/03/README.md)     | [JavaScript](./Chapter3/03/solution.js) |
+|  04  | [가장 짧은 문자거리](./Chapter3/04/README.md) | [JavaScript](./Chapter3/04/solution.js) |
 
 </details>
 
