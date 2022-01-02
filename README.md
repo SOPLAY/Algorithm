@@ -61,6 +61,7 @@
 |  02  |  [유효한 팰린드롬](./Chapter3/02/README.md)   | [JavaScript](./Chapter3/02/solution.js) |
 |  03  |    [숫자만 추출](./Chapter3/03/README.md)     | [JavaScript](./Chapter3/03/solution.js) |
 |  04  | [가장 짧은 문자거리](./Chapter3/04/README.md) | [JavaScript](./Chapter3/04/solution.js) |
+|  05  |    [문자열 압축](./Chapter3/05/README.md)     | [JavaScript](./Chapter3/05/solution.js) |
 
 </details>
 
