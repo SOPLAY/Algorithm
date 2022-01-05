@@ -1,38 +1,32 @@
 // 문제 풀이
 function solution(inputValue) {
+  //입력값 정렬
   let input = inputValue.split("\n");
   let size = input
     .shift()
     .split(" ")
     .map((v) => v * 1);
-
   input = input.slice(0, size[1]).map((v) =>
     v
       .split(" ")
       .slice(0, size[0])
       .map((v) => v * 1)
   );
-  let stdLow = new Array(size[0]).fill(Number.MIN_SAFE_INTEGER);
-  let stdHigh = new Array(size[0]).fill(Number.MAX_SAFE_INTEGER);
-  input.forEach((exam) => {
-    for (let i = 0; i < exam.length; i++) {
-      let stdNo = exam[i] - 1;
-      let grade = i + 1;
-      stdLow[stdNo] = grade > stdLow[stdNo] ? grade : stdLow[stdNo];
-      stdHigh[stdNo] = grade < stdHigh[stdNo] ? grade : stdHigh[stdNo];
-    }
-  });
-  stdLow;
-  stdHigh;
-  let answer = 0;
-  for (let i = 0; i < stdLow.length; i++) {
-    for (let j = 0; j < stdLow.length; j++) {
-      if (i !== j && stdLow[i] <= stdHigh[j]) {
-        console.log(i + 1, j + 1);
-        answer++;
+
+  let answer = 0; //count
+  for (let mentor = 0; mentor < size[0]; mentor++)
+    for (let mentee = 0; mentee < size[0]; mentee++) {
+      if (mentor !== mentee) {
+        let state = true;
+        for (let inputIndex = 0; inputIndex < input.length; inputIndex++) {
+          if (!(input[inputIndex].indexOf(mentor + 1) > input[inputIndex].indexOf(mentee + 1))) {
+            state = false;
+            break;
+          }
+        }
+        state && answer++;
       }
     }
-  }
 
   return answer;
 }
