@@ -9,8 +9,17 @@ function solution(inputValue) {
     .split(" ")
     .slice(0, size[0])
     .map((v) => parseInt(v));
-
-  let answer;
+  let set = new Set();
+  for (let i = 0; i < size[0] - 2; i++) {
+    for (let j = i + 1; j < size[0] - 1; j++) {
+      for (let k = j + 1; k < size[0]; k++) {
+        set.add(input[i] + input[j] + input[k]);
+      }
+    }
+  }
+  let arr = Array.from(set);
+  arr.sort((a, b) => b - a);
+  let answer = arr[size[1] - 1];
 
   return answer;
 }
