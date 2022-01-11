@@ -89,9 +89,10 @@
 <details>
 </br>
 
-| 번호 |                   문제                    |                  Code                   |
-| :--: | :---------------------------------------: | :-------------------------------------: |
-|  01  | [두 배열 합치기](./Chapter5/01/README.md) | [JavaScript](./Chapter5/01/solution.js) |
+| 번호 |                    문제                    |                  Code                   |
+| :--: | :----------------------------------------: | :-------------------------------------: |
+|  01  | [두 배열 합치기](./Chapter5/01/README.md)  | [JavaScript](./Chapter5/01/solution.js) |
+|  02  | [공통원소 구하기](./Chapter5/02/README.md) | [JavaScript](./Chapter5/02/solution.js) |
 
 </details>
 
