@@ -94,6 +94,7 @@
 |  01  | [두 배열 합치기](./Chapter5/01/README.md)  | [JavaScript](./Chapter5/01/solution.js) |
 |  02  | [공통원소 구하기](./Chapter5/02/README.md) | [JavaScript](./Chapter5/02/solution.js) |
 |  03  | [연속 부분수열 1](./Chapter5/03/README.md) | [JavaScript](./Chapter5/03/solution.js) |
+|  04  | [연속 부분수열 2](./Chapter5/04/README.md) | [JavaScript](./Chapter5/04/solution.js) |
 
 </details>
 
