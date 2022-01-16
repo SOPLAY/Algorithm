@@ -96,6 +96,7 @@
 |  03  | [연속 부분수열 1](./Chapter5/03/README.md) | [JavaScript](./Chapter5/03/solution.js) |
 |  04  | [연속 부분수열 2](./Chapter5/04/README.md) | [JavaScript](./Chapter5/04/solution.js) |
 |  05  |    [최대 매출](./Chapter5/05/README.md)    | [JavaScript](./Chapter5/05/solution.js) |
+|  06  | [학급 회장(해쉬)](./Chapter5/06/README.md) | [JavaScript](./Chapter5/06/solution.js) |
 
 </details>
 
