@@ -89,15 +89,16 @@
 <details>
 </br>
 
-| 번호 |                    문제                    |                  Code                   |
-| :--: | :----------------------------------------: | :-------------------------------------: |
-|  01  | [두 배열 합치기](./Chapter5/01/README.md)  | [JavaScript](./Chapter5/01/solution.js) |
-|  02  | [공통원소 구하기](./Chapter5/02/README.md) | [JavaScript](./Chapter5/02/solution.js) |
-|  03  | [연속 부분수열 1](./Chapter5/03/README.md) | [JavaScript](./Chapter5/03/solution.js) |
-|  04  | [연속 부분수열 2](./Chapter5/04/README.md) | [JavaScript](./Chapter5/04/solution.js) |
-|  05  |    [최대 매출](./Chapter5/05/README.md)    | [JavaScript](./Chapter5/05/solution.js) |
-|  06  | [학급 회장(해쉬)](./Chapter5/06/README.md) | [JavaScript](./Chapter5/06/solution.js) |
-|  07  | [아나그램(해쉬)](./Chapter5/07/README.md)  | [JavaScript](./Chapter5/07/solution.js) |
+| 번호 |                                      문제                                      |                  Code                   |
+| :--: | :----------------------------------------------------------------------------: | :-------------------------------------: |
+|  01  |                   [두 배열 합치기](./Chapter5/01/README.md)                    | [JavaScript](./Chapter5/01/solution.js) |
+|  02  |                   [공통원소 구하기](./Chapter5/02/README.md)                   | [JavaScript](./Chapter5/02/solution.js) |
+|  03  |                   [연속 부분수열 1](./Chapter5/03/README.md)                   | [JavaScript](./Chapter5/03/solution.js) |
+|  04  |                   [연속 부분수열 2](./Chapter5/04/README.md)                   | [JavaScript](./Chapter5/04/solution.js) |
+|  05  |                      [최대 매출](./Chapter5/05/README.md)                      | [JavaScript](./Chapter5/05/solution.js) |
+|  06  |                   [학급 회장(해쉬)](./Chapter5/06/README.md)                   | [JavaScript](./Chapter5/06/solution.js) |
+|  07  |                   [아나그램(해쉬)](./Chapter5/07/README.md)                    | [JavaScript](./Chapter5/07/solution.js) |
+|  08  | [모든 아나그램 찾기(해쉬, 투포인터, 슬라이딩 윈도우)](./Chapter5/08/README.md) | [JavaScript](./Chapter5/08/solution.js) |
 
 </details>
 
