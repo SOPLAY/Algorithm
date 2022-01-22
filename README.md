@@ -103,3 +103,17 @@
 </details>
 
 ---
+
+### Chapter 6. `자료구조(스택, 큐)`
+
+<details>
+</br>
+
+| 번호 |                  문제                   |                  Code                   |
+| :--: | :-------------------------------------: | :-------------------------------------: |
+|  01  | [올바른 괄호](./Chapter6/01/README.md)  | [JavaScript](./Chapter6/01/solution.js) |
+|  02  | [괄호문자제거](./Chapter6/02/README.md) | [JavaScript](./Chapter6/02/solution.js) |
+
+</details>
+
+---
