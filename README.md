@@ -114,6 +114,8 @@
 |  01  |     [올바른 괄호](./Chapter6/01/README.md)      | [JavaScript](./Chapter6/01/solution.js) |
 |  02  |     [괄호문자제거](./Chapter6/02/README.md)     | [JavaScript](./Chapter6/02/solution.js) |
 |  03  | [크레인 인형뽑기 게임](./Chapter6/03/README.md) | [JavaScript](./Chapter6/03/solution.js) |
+|  04  | [후위식 연산(postfix)](./Chapter6/04/README.md) | [JavaScript](./Chapter6/04/solution.js) |
+|  05  |       [쇠막대기](./Chapter6/05/README.md)       | [JavaScript](./Chapter6/05/solution.js) |
 
 </details>
 
