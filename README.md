@@ -116,6 +116,7 @@
 |  03  | [크레인 인형뽑기 게임](./Chapter6/03/README.md) | [JavaScript](./Chapter6/03/solution.js) |
 |  04  | [후위식 연산(postfix)](./Chapter6/04/README.md) | [JavaScript](./Chapter6/04/solution.js) |
 |  05  |       [쇠막대기](./Chapter6/05/README.md)       | [JavaScript](./Chapter6/05/solution.js) |
+|  06  |    [공주구하기(큐)](./Chapter6/06/README.md)    | [JavaScript](./Chapter6/06/solution.js) |
 
 </details>
 
