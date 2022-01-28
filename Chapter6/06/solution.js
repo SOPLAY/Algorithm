@@ -7,20 +7,15 @@ function solution(inputValue) {
 
   let answer = 0;
 
-  let qu = [];
-  for (let i = 0; i < input[0]; i++) {
-    qu.push(i + 1);
-  }
+  let qu = Array(input[0])
+    .fill(0)
+    .map((v, i) => i + 1);
 
   while (qu.length > 1) {
-    for (let i = 0; i < input[1]; i++) {
-      if (i === input[1] - 1) {
-        qu.shift();
-      } else {
-        qu.push(qu.shift());
-      }
-    }
+    for (let i = 1; i < input[1]; i++) qu.push(qu.shift());
+    qu.shift();
   }
+
   answer = qu.pop();
 
   return answer;
