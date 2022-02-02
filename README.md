@@ -128,10 +128,11 @@
 <details>
 </br>
 
-| 번호 |                 문제                 |                  Code                   |
-| :--: | :----------------------------------: | :-------------------------------------: |
-|  01  | [선택 정렬](./Chapter7/01/README.md) | [JavaScript](./Chapter7/01/solution.js) |
-|  02  | [버블 정렬](./Chapter7/02/README.md) | [JavaScript](./Chapter7/02/solution.js) |
+| 번호 |                  문제                   |                  Code                   |
+| :--: | :-------------------------------------: | :-------------------------------------: |
+|  01  |  [선택 정렬](./Chapter7/01/README.md)   | [JavaScript](./Chapter7/01/solution.js) |
+|  02  |  [버블 정렬](./Chapter7/02/README.md)   | [JavaScript](./Chapter7/02/solution.js) |
+|  02  | [Special Sort](./Chapter7/03/README.md) | [JavaScript](./Chapter7/03/solution.js) |
 
 </details>
 
