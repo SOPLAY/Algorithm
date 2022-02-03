@@ -132,7 +132,8 @@
 | :--: | :-------------------------------------: | :-------------------------------------: |
 |  01  |  [선택 정렬](./Chapter7/01/README.md)   | [JavaScript](./Chapter7/01/solution.js) |
 |  02  |  [버블 정렬](./Chapter7/02/README.md)   | [JavaScript](./Chapter7/02/solution.js) |
-|  02  | [Special Sort](./Chapter7/03/README.md) | [JavaScript](./Chapter7/03/solution.js) |
+|  03  | [Special Sort](./Chapter7/03/README.md) | [JavaScript](./Chapter7/03/solution.js) |
+|  04  |  [삽입 정렬](./Chapter7/04/README.md)   | [JavaScript](./Chapter7/04/solution.js) |
 
 </details>
 
