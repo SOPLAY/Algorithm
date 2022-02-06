@@ -11,10 +11,12 @@ function solution(inputValue) {
     let pos = cash.indexOf(v);
     if (pos !== -1) {
       //hits
-      for (let i = pos; i > 0; i--) cash[i] = cash[i - 1];
+      cash.splice(pos, 1);
+      cash.unshift(v);
     } else {
       //miss
-      for (let i = size - 1; i > 0; i--) cash[i] = cash[i - 1];
+      cash.unshift(v);
+      cash.length > size && cash.pop();
     }
     cash[0] = v;
   });
