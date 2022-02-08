@@ -135,6 +135,7 @@
 |  03  |    [Special Sort](./Chapter7/03/README.md)     | [JavaScript](./Chapter7/03/solution.js) |
 |  04  |      [삽입 정렬](./Chapter7/04/README.md)      | [JavaScript](./Chapter7/04/solution.js) |
 |  05  | [Least Recently Used](./Chapter7/05/README.md) | [JavaScript](./Chapter7/05/solution.js) |
+|  06  |   [장난꾸러기 현수](./Chapter7/06/README.md)   | [JavaScript](./Chapter7/06/solution.js) |
 
 </details>
 
