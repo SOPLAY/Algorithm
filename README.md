@@ -137,6 +137,7 @@
 |  05  | [Least Recently Used](./Chapter7/05/README.md) | [JavaScript](./Chapter7/05/solution.js) |
 |  06  |   [장난꾸러기 현수](./Chapter7/06/README.md)   | [JavaScript](./Chapter7/06/solution.js) |
 |  07  |      [좌표 정렬](./Chapter7/07/README.md)      | [JavaScript](./Chapter7/07/solution.js) |
+|  08  |     [회의실 배정](./Chapter7/08/README.md)     | [JavaScript](./Chapter7/08/solution.js) |
 
 </details>
 
