@@ -139,6 +139,7 @@
 |  07  |      [좌표 정렬](./Chapter7/07/README.md)      | [JavaScript](./Chapter7/07/solution.js) |
 |  08  |     [회의실 배정](./Chapter7/08/README.md)     | [JavaScript](./Chapter7/08/solution.js) |
 |  09  |       [결혼식](./Chapter7/09/README.md)        | [JavaScript](./Chapter7/09/solution.js) |
+|  10  |      [이분검색](./Chapter7/10/README.md)       | [JavaScript](./Chapter7/10/solution.js) |
 
 </details>
 
