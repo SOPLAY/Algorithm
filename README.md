@@ -141,6 +141,7 @@
 |  09  |       [결혼식](./Chapter7/09/README.md)        | [JavaScript](./Chapter7/09/solution.js) |
 |  10  |      [이분검색](./Chapter7/10/README.md)       | [JavaScript](./Chapter7/10/solution.js) |
 |  11  |     [뮤직비디오](./Chapter7/11/README.md)      | [JavaScript](./Chapter7/11/solution.js) |
+|  12  |    [마구간 정하기](./Chapter7/12/README.md)    | [JavaScript](./Chapter7/12/solution.js) |
 
 </details>
 
