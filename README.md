@@ -152,8 +152,9 @@
 <details>
 </br>
 
-| 번호 |                문제                 |                  Code                   |
-| :--: | :---------------------------------: | :-------------------------------------: |
-|  01  | [재귀함수](./Chapter8/01/README.md) | [JavaScript](./Chapter8/01/solution.js) |
+| 번호 |                           문제                           |                  Code                   |
+| :--: | :------------------------------------------------------: | :-------------------------------------: |
+|  01  |           [재귀함수](./Chapter8/01/README.md)            | [JavaScript](./Chapter8/01/solution.js) |
+|  02  | [재귀함수를 이용한 이진수 출력](./Chapter8/02/README.md) | [JavaScript](./Chapter8/02/solution.js) |
 
 </details>
