@@ -156,5 +156,6 @@
 | :--: | :------------------------------------------------------: | :-------------------------------------: |
 |  01  |           [재귀함수](./Chapter8/01/README.md)            | [JavaScript](./Chapter8/01/solution.js) |
 |  02  | [재귀함수를 이용한 이진수 출력](./Chapter8/02/README.md) | [JavaScript](./Chapter8/02/solution.js) |
+|  03  |  [이진트리 순회(깊이우선탐색)](./Chapter8/03/README.md)  | [JavaScript](./Chapter8/03/solution.js) |
 
 </details>
