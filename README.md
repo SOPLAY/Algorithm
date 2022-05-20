@@ -159,5 +159,6 @@
 |  03  |  [이진트리 순회(깊이우선탐색)](./Chapter8/03/README.md)  | [JavaScript](./Chapter8/03/solution.js) |
 |  04  |     [부분집합 구하기(DFS)](./Chapter8/04/README.md)      | [JavaScript](./Chapter8/04/solution.js) |
 |  05  |      [합이 같은 부분집합](./Chapter8/05/README.md)       | [JavaScript](./Chapter8/05/solution.js) |
+|  06  |       [바둑이 승차(DFS)](./Chapter8/06/README.md)        | [JavaScript](./Chapter8/06/solution.js) |
 
 </details>
