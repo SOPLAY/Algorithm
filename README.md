@@ -162,5 +162,6 @@
 |  06  |       [바둑이 승차(DFS)](./Chapter8/06/README.md)        | [JavaScript](./Chapter8/06/solution.js) |
 |  07  |     [최대점수 구하기(DFS)](./Chapter8/07/README.md)      | [JavaScript](./Chapter8/07/solution.js) |
 |  08  |        [중복순열 구하기](./Chapter8/08/README.md)        | [JavaScript](./Chapter8/08/solution.js) |
+|  09  |           [동전교환](./Chapter8/09/README.md)            | [JavaScript](./Chapter8/09/solution.js) |
 
 </details>
