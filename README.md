@@ -166,5 +166,6 @@
 |  10  |          [순열 구하기](./Chapter8/10/README.md)          | [JavaScript](./Chapter8/10/solution.js) |
 |  11  |           [팩토리얼](./Chapter8/11/README.md)            | [JavaScript](./Chapter8/11/solution.js) |
 |  12  |  [조합의 경우수(메모이제이션)](./Chapter8/12/README.md)  | [JavaScript](./Chapter8/12/solution.js) |
+|  13  |         [수열 추측하기](./Chapter8/13/README.md)         | [JavaScript](./Chapter8/13/solution.js) |
 
 </details>
