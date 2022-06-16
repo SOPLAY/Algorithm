@@ -168,5 +168,6 @@
 |  12  |  [조합의 경우수(메모이제이션)](./Chapter8/12/README.md)  | [JavaScript](./Chapter8/12/solution.js) |
 |  13  |         [수열 추측하기](./Chapter8/13/README.md)         | [JavaScript](./Chapter8/13/solution.js) |
 |  14  |          [조합 구하기](./Chapter8/14/README.md)          | [JavaScript](./Chapter8/14/solution.js) |
+|  15  |          [수들의 조합](./Chapter8/15/README.md)          | [JavaScript](./Chapter8/15/solution.js) |
 
 </details>
